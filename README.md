@@ -1,7 +1,7 @@
 # T_SQL
 Microsoft: DAT201x Querying with Transact-SQL from edx
 
-ID Verified certificate available at: https://s3.amazonaws.com/verify.edx.org/downloads/cb977a59e4b544bd954bf7313c76e934/Certificate.pdf
+ID Verified certificate available at: 
   
   
   Course  Outline
